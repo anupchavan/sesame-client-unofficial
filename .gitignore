@@ -1,0 +1,12 @@
+# Secrets — never commit
+secrets/
+
+# Build output
+.build/
+dist/
+*.xcodeproj
+.swiftpm/
+
+# macOS / logs
+.DS_Store
+*.log
